@@ -1,0 +1,26 @@
+{
+  "env": {
+    "browser": true,
+    "es2021": true,
+    "node": true
+  },
+  "extends": ["plugin:react/recommended", "standard"],
+  "settings": {
+    "react": {
+      "version": "17.0.2"
+    }
+  },
+  "parserOptions": {
+    "ecmaFeatures": {
+      "modules": true
+    },
+    "ecmaVersion": "latest",
+    "sourceType": "module"
+  },
+  "plugins": ["react", "prettier"],
+  "rules": {
+    "react/react-in-jsx-scope": ["off", "always"],
+    "react/prop-types": ["off", "always"],
+    "space-before-function-paren": ["off", "always"]
+  }
+}
