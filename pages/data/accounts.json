@@ -1,0 +1,13 @@
+{
+  "accounts": [
+    { "id": 1, "accountNum": "267169665", "saldo": "₡573642" },
+    { "id": 2, "accountNum": "254117023", "saldo": "₡658935" },
+    { "id": 3, "accountNum": "238271527", "saldo": "₡411810" },
+    { "id": 4, "accountNum": "775277681", "saldo": "₡267576" },
+    { "id": 5, "accountNum": "363129810", "saldo": "₡477731" },
+    { "id": 6, "accountNum": "454631279", "saldo": "₡910550" },
+    { "id": 7, "accountNum": "452578955", "saldo": "₡194207" },
+    { "id": 8, "accountNum": "458224018", "saldo": "₡985353" },
+    { "id": 9, "accountNum": "025677084", "saldo": "₡895593" }
+  ]
+}
