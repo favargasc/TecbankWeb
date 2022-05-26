@@ -10,5 +10,82 @@ datasource db {
 model User {
   id   Int    @id @default(autoincrement())
   name String
-  age  Int
+  lastname  String
+  password  String
+  email  String
+  bankId Int
+  userName String
 }
+
+// Guardar las diferentes cuentas de un usuario
+model Account{
+  id Int @id @default(autoincrement())
+  accountNumber String
+  currentBalance Float
+  userId Int
+}
+
+// Guardar el historial de transacciones de una cuenta
+model Proofpayment{
+  id Int @id @default(autoincrement())
+  resAccount String
+  reqAccount String
+  idCard Int
+  amount Float
+  details String
+  transactionTypeId Int
+  commision Float
+  bankId Int
+}
+
+// Guardar los tipos de bancos(No me acuerdo para que exactamente se usaba la traje del proyecto anterior)
+model Bank{
+  id Int @id @default(autoincrement())
+  bankName String
+  bankCode String
+}
+
+// Para guardar las citas creadas por usuario y poder editarlas o verlas
+model appointmentCreate{
+  id Int @id @default(autoincrement())
+  appointmentType String
+  date String
+  time String
+  branch String
+  userId Int
+  canceled Boolean
+}
+
+ // Es para guardar los reportes de salida del pais por usario
+model reportRegistry{
+  id Int @id @default(autoincrement())
+  name String
+  lastname String
+  cedula Int
+  phone String
+  email String
+  country String
+  dateLeave String
+  dateReturn String
+}
+
+// Es para guardar la informacion del plan de ahorros por usuario
+model savingPlan{
+  id Int @id @default(autoincrement())
+  userId Int
+  savingName String
+  startAmount Float
+  savingType String
+  limitYears Int
+  finalAmount Float
+}
+
+// Es para guardar la informacion de los pagos 
+model paymentService{
+  id Int @id @default(autoincrement())
+  userId Int
+  serviceName String
+  details String
+  amount Float
+}
+
