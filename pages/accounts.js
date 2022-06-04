@@ -7,9 +7,11 @@ import Link from 'next/link'
 
 export default function Accounts() {
   const [accounts, setAccounts] = useState([])
-
+  // const [userId, setUserId] = useState([])
   useEffect(() => {
     setAccounts(accountData.accounts)
+    // const user = await axios.get("../api/students")
+    // setUserId(user)
   }, [])
 
   return (
