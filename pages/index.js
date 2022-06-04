@@ -1,10 +1,46 @@
 import Head from 'next/head'
 import styled from 'styled-components'
 import LoginImg from '../public/assets/login-img.svg'
-import Link from 'next/link'
 import GlobalStyle from './components/GlobalStyle'
+import React, { useState } from 'react'
+import { useRouter } from 'next/router'
 
 export default function Home() {
+  const router = useRouter()
+
+  const [data, setData] = useState({
+    user: '',
+    password: ''
+  })
+
+  const handleInputChange = (event) => {
+    setData({
+      ...data,
+      [event.target.name]: event.target.value
+    })
+  }
+
+  const sendData = async (event) => {
+    event.preventDefault()
+
+    const pool = await fetch('http://localhost:3000/api/students', {
+      headers: {
+        Accept: 'application/json',
+        'Content-Type': 'application/json'
+      },
+      method: 'POST',
+      body: JSON.stringify(data)
+    })
+
+    const cliente = await pool.json()
+
+    if (cliente.userId > 0) {
+      router.push(`http://localhost:3000/api/accounts/${cliente.userId}`)
+    } else {
+      window.alert('Usuario No Valido')
+    }
+  }
+
   return (
     <div>
       <Head>
@@ -15,14 +51,22 @@ export default function Home() {
       <GlobalStyle />
       <Wrapper>
         <Login>
-          <LoginForm>
+          <LoginForm onSubmit={sendData}>
             <Text title>Inicio de Sesión</Text>
-            <FormInput placeholder="Nombre de usuario" />
-            <FormInput placeholder="Contraseña" />
+            <FormInput
+              placeholder="Nombre de usuario"
+              name="user"
+              onChange={handleInputChange}
+            />
+            <FormInput
+              placeholder="Contraseña"
+              name="password"
+              onChange={handleInputChange}
+            />
 
-            <Link href={'/accounts'}>
-              <Button primary>Iniciar Sesión</Button>
-            </Link>
+            <Button primary type="submit">
+              Iniciar Sesión
+            </Button>
             <Button>Registrarse</Button>
             <Text>
               <center>

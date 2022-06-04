@@ -6,7 +6,7 @@ const getUserId = async (name, age) => {
   const pool = await prisma.user.findFirst({
     where: {
       name: name,
-      age: age
+      age: parseInt(age)
     }
   })
 
