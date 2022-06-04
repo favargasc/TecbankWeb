@@ -2,11 +2,11 @@ const { PrismaClient } = require('@prisma/client')
 
 const prisma = new PrismaClient()
 
-const getUserId = async (name, age) => {
+const getUserId = async (user, password) => {
   const pool = await prisma.user.findFirst({
     where: {
-      name: name,
-      age: age
+      name: user,
+      age: password
     }
   })
 
