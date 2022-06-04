@@ -22,5 +22,6 @@ const getStudents = async () => {
 }
 
 getStudents()
+addStudents()
 
 module.exports = { addStudents, getStudents }
