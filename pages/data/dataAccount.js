@@ -1,4 +1,5 @@
 const { randCreditCard, randNumber } = require('@ngneat/falso')
+
 const fs = require('fs')
 
 const generateDataAccount = (amount) => {
