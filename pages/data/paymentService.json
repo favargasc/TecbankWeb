@@ -1,0 +1,704 @@
+﻿{
+  "paymentServices": [
+    {
+      "id": 1,
+      "userid": "60351165",
+      "serviceName": "n/a",
+      "details": "Electronics",
+      "amount": "$9287437.15"
+    },
+    {
+      "id": 2,
+      "userid": 50370268,
+      "serviceName": "Capital Goods",
+      "details": "Industrial",
+      "amount": "$8317358.22"
+    },
+    {
+      "id": 3,
+      "userid": "96529916",
+      "serviceName": "n/a",
+      "details": "Clothing",
+      "amount": "$1851863.37"
+    },
+    {
+      "id": 4,
+      "userid": "69958787",
+      "serviceName": "Public Utilities",
+      "details": "Computers",
+      "amount": "$8044141.15"
+    },
+    {
+      "id": 5,
+      "userid": "38037999",
+      "serviceName": "n/a",
+      "details": "Computers",
+      "amount": "$2728218.98"
+    },
+    {
+      "id": 6,
+      "userid": "60351165",
+      "serviceName": "Energy",
+      "details": "Books",
+      "amount": "$5893710.40"
+    },
+    {
+      "id": 7,
+      "userid": "22247152",
+      "serviceName": "Consumer Services",
+      "details": "Games",
+      "amount": "$2714378.01"
+    },
+    {
+      "id": 8,
+      "userid": "44112217",
+      "serviceName": "Transportation",
+      "details": "Grocery",
+      "amount": "$5903449.88"
+    },
+    {
+      "id": 9,
+      "userid": "89765971",
+      "serviceName": "Finance",
+      "details": "Electronics",
+      "amount": "$5900936.39"
+    },
+    {
+      "id": 10,
+      "userid": "00011141",
+      "serviceName": "Finance",
+      "details": "Sports",
+      "amount": "$5940389.92"
+    },
+    {
+      "id": 11,
+      "userid": "57934045",
+      "serviceName": "n/a",
+      "details": "Baby",
+      "amount": "$1033709.37"
+    },
+    {
+      "id": 12,
+      "userid": "29959053",
+      "serviceName": "Energy",
+      "details": "Clothing",
+      "amount": "$7883340.49"
+    },
+    {
+      "id": 13,
+      "userid": "29959053",
+      "serviceName": "n/a",
+      "details": "Jewelry",
+      "amount": "$5338056.60"
+    },
+    {
+      "id": 14,
+      "userid": "28279966",
+      "serviceName": "Finance",
+      "details": "Sports",
+      "amount": "$5310195.46"
+    },
+    {
+      "id": 15,
+      "userid": "14287682",
+      "serviceName": "n/a",
+      "details": "Grocery",
+      "amount": "$2841043.82"
+    },
+    {
+      "id": 16,
+      "userid": "73411574",
+      "serviceName": "n/a",
+      "details": "Electronics",
+      "amount": "$575674.08"
+    },
+    {
+      "id": 17,
+      "userid": "55931913",
+      "serviceName": "Health Care",
+      "details": "Tools",
+      "amount": "$7912304.38"
+    },
+    {
+      "id": 18,
+      "userid": "67801082",
+      "serviceName": "n/a",
+      "details": "Automotive",
+      "amount": "$307797.53"
+    },
+    {
+      "id": 19,
+      "userid": "56651931",
+      "serviceName": "Miscellaneous",
+      "details": "Electronics",
+      "amount": "$1426379.87"
+    },
+    {
+      "id": 20,
+      "userid": "01049499",
+      "serviceName": "Finance",
+      "details": "Shoes",
+      "amount": "$667021.02"
+    },
+    {
+      "id": 21,
+      "userid": "42503630",
+      "serviceName": "Finance",
+      "details": "Music",
+      "amount": "$864826.86"
+    },
+    {
+      "id": 22,
+      "userid": "82416874",
+      "serviceName": "Technology",
+      "details": "Grocery",
+      "amount": "$8680127.96"
+    },
+    {
+      "id": 23,
+      "userid": "88080500",
+      "serviceName": "n/a",
+      "details": "Industrial",
+      "amount": "$8983770.13"
+    },
+    {
+      "id": 24,
+      "userid": "18115228",
+      "serviceName": "Miscellaneous",
+      "details": "Baby",
+      "amount": "$4784766.62"
+    },
+    {
+      "id": 25,
+      "userid": "26260337",
+      "serviceName": "Consumer Non-Durables",
+      "details": "Outdoors",
+      "amount": "$1949199.75"
+    },
+    {
+      "id": 26,
+      "userid": "67845725",
+      "serviceName": "Finance",
+      "details": "Home",
+      "amount": "$3091643.58"
+    },
+    {
+      "id": 27,
+      "userid": "15904723",
+      "serviceName": "n/a",
+      "details": "Baby",
+      "amount": "$8910110.68"
+    },
+    {
+      "id": 28,
+      "userid": "14287682",
+      "serviceName": "Consumer Services",
+      "details": "Movies",
+      "amount": "$9060436.71"
+    },
+    {
+      "id": 29,
+      "userid": "55931913",
+      "serviceName": "Finance",
+      "details": "Kids",
+      "amount": "$1877007.82"
+    },
+    {
+      "id": 30,
+      "userid": "55931913",
+      "serviceName": "Finance",
+      "details": "Grocery",
+      "amount": "$2400501.98"
+    },
+    {
+      "id": 31,
+      "userid": "77835181",
+      "serviceName": "Technology",
+      "details": "Shoes",
+      "amount": "$6735365.04"
+    },
+    {
+      "id": 32,
+      "userid": "19721745",
+      "serviceName": "Finance",
+      "details": "Tools",
+      "amount": "$9363732.87"
+    },
+    {
+      "id": 33,
+      "userid": "56651931",
+      "serviceName": "Consumer Services",
+      "details": "Home",
+      "amount": "$6582074.47"
+    },
+    {
+      "id": 34,
+      "userid": "30069295",
+      "serviceName": "Finance",
+      "details": "Electronics",
+      "amount": "$5748922.15"
+    },
+    {
+      "id": 35,
+      "userid": "01143952",
+      "serviceName": "Finance",
+      "details": "Baby",
+      "amount": "$7582367.59"
+    },
+    {
+      "id": 36,
+      "userid": "16455608",
+      "serviceName": "Transportation",
+      "details": "Sports",
+      "amount": "$1024733.43"
+    },
+    {
+      "id": 37,
+      "userid": "38867643",
+      "serviceName": "Finance",
+      "details": "Movies",
+      "amount": "$8653284.18"
+    },
+    {
+      "id": 38,
+      "userid": "18115228",
+      "serviceName": "Technology",
+      "details": "Sports",
+      "amount": "$9251770.51"
+    },
+    {
+      "id": 39,
+      "userid": "03413227",
+      "serviceName": "Consumer Services",
+      "details": "Industrial",
+      "amount": "$1826753.68"
+    },
+    {
+      "id": 40,
+      "userid": "93365337",
+      "serviceName": "Health Care",
+      "details": "Automotive",
+      "amount": "$9288864.81"
+    },
+    {
+      "id": 41,
+      "userid": "57934045",
+      "serviceName": "n/a",
+      "details": "Music",
+      "amount": "$765730.24"
+    },
+    {
+      "id": 42,
+      "userid": "88080500",
+      "serviceName": "n/a",
+      "details": "Kids",
+      "amount": "$3054212.70"
+    },
+    {
+      "id": 43,
+      "userid": "38867643",
+      "serviceName": "Energy",
+      "details": "Home",
+      "amount": "$5897671.85"
+    },
+    {
+      "id": 44,
+      "userid": "89765971",
+      "serviceName": "Consumer Non-Durables",
+      "details": "Jewelry",
+      "amount": "$8789586.92"
+    },
+    {
+      "id": 45,
+      "userid": "89864525",
+      "serviceName": "Technology",
+      "details": "Beauty",
+      "amount": "$4641133.08"
+    },
+    {
+      "id": 46,
+      "userid": "43103848",
+      "serviceName": "Finance",
+      "details": "Automotive",
+      "amount": "$3167899.02"
+    },
+    {
+      "id": 47,
+      "userid": "28279966",
+      "serviceName": "Finance",
+      "details": "Kids",
+      "amount": "$3217721.44"
+    },
+    {
+      "id": 48,
+      "userid": "16455608",
+      "serviceName": "n/a",
+      "details": "Beauty",
+      "amount": "$5060087.57"
+    },
+    {
+      "id": 49,
+      "userid": "84362303",
+      "serviceName": "Finance",
+      "details": "Health",
+      "amount": "$2823462.17"
+    },
+    {
+      "id": 50,
+      "userid": "38313553",
+      "serviceName": "n/a",
+      "details": "Kids",
+      "amount": "$2494531.01"
+    },
+    {
+      "id": 51,
+      "userid": "91904614",
+      "serviceName": "Consumer Services",
+      "details": "Movies",
+      "amount": "$8431242.92"
+    },
+    {
+      "id": 52,
+      "userid": "44112217",
+      "serviceName": "Health Care",
+      "details": "Sports",
+      "amount": "$1806135.06"
+    },
+    {
+      "id": 53,
+      "userid": "68041664",
+      "serviceName": "Finance",
+      "details": "Clothing",
+      "amount": "$8669523.47"
+    },
+    {
+      "id": 54,
+      "userid": "97624164",
+      "serviceName": "Consumer Services",
+      "details": "Home",
+      "amount": "$6595196.90"
+    },
+    {
+      "id": 55,
+      "userid": "22247152",
+      "serviceName": "Capital Goods",
+      "details": "Baby",
+      "amount": "$3958333.55"
+    },
+    {
+      "id": 56,
+      "userid": "76287969",
+      "serviceName": "n/a",
+      "details": "Home",
+      "amount": "$1683995.19"
+    },
+    {
+      "id": 57,
+      "userid": "16455608",
+      "serviceName": "Capital Goods",
+      "details": "Kids",
+      "amount": "$6385231.09"
+    },
+    {
+      "id": 58,
+      "userid": "30212277",
+      "serviceName": "Finance",
+      "details": "Home",
+      "amount": "$3379954.85"
+    },
+    {
+      "id": 59,
+      "userid": "97624164",
+      "serviceName": "n/a",
+      "details": "Automotive",
+      "amount": "$3056882.21"
+    },
+    {
+      "id": 60,
+      "userid": "60351165",
+      "serviceName": "Finance",
+      "details": "Kids",
+      "amount": "$1814714.61"
+    },
+    {
+      "id": 61,
+      "userid": "63542525",
+      "serviceName": "n/a",
+      "details": "Tools",
+      "amount": "$5909098.71"
+    },
+    {
+      "id": 62,
+      "userid": "39206139",
+      "serviceName": "Energy",
+      "details": "Movies",
+      "amount": "$9776585.75"
+    },
+    {
+      "id": 63,
+      "userid": "38313553",
+      "serviceName": "Finance",
+      "details": "Home",
+      "amount": "$1283249.33"
+    },
+    {
+      "id": 64,
+      "userid": "55931913",
+      "serviceName": "Health Care",
+      "details": "Jewelry",
+      "amount": "$2427292.87"
+    },
+    {
+      "id": 65,
+      "userid": "46131683",
+      "serviceName": "Consumer Durables",
+      "details": "Tools",
+      "amount": "$8651203.39"
+    },
+    {
+      "id": 66,
+      "userid": "32340140",
+      "serviceName": "Public Utilities",
+      "details": "Automotive",
+      "amount": "$8619430.48"
+    },
+    {
+      "id": 67,
+      "userid": "91988389",
+      "serviceName": "n/a",
+      "details": "Toys",
+      "amount": "$5132903.81"
+    },
+    {
+      "id": 68,
+      "userid": "12334343",
+      "serviceName": "Finance",
+      "details": "Grocery",
+      "amount": "$9979590.33"
+    },
+    {
+      "id": 69,
+      "userid": "84677091",
+      "serviceName": "Energy",
+      "details": "Garden",
+      "amount": "$8277406.15"
+    },
+    {
+      "id": 70,
+      "userid": "00707273",
+      "serviceName": "Technology",
+      "details": "Books",
+      "amount": "$1192622.98"
+    },
+    {
+      "id": 71,
+      "userid": "44350772",
+      "serviceName": "Consumer Services",
+      "details": "Home",
+      "amount": "$7910598.75"
+    },
+    {
+      "id": 72,
+      "userid": "01049499",
+      "serviceName": "n/a",
+      "details": "Sports",
+      "amount": "$8796359.97"
+    },
+    {
+      "id": 73,
+      "userid": "30069295",
+      "serviceName": "Miscellaneous",
+      "details": "Tools",
+      "amount": "$6169210.19"
+    },
+    {
+      "id": 74,
+      "userid": "03997995",
+      "serviceName": "Consumer Non-Durables",
+      "details": "Garden",
+      "amount": "$7472315.44"
+    },
+    {
+      "id": 75,
+      "userid": "45645967",
+      "serviceName": "Basic Industries",
+      "details": "Clothing",
+      "amount": "$8178655.92"
+    },
+    {
+      "id": 76,
+      "userid": "11061350",
+      "serviceName": "Consumer Durables",
+      "details": "Industrial",
+      "amount": "$7366321.12"
+    },
+    {
+      "id": 77,
+      "userid": "89969141",
+      "serviceName": "Technology",
+      "details": "Outdoors",
+      "amount": "$9097797.34"
+    },
+    {
+      "id": 78,
+      "userid": "57934045",
+      "serviceName": "Health Care",
+      "details": "Computers",
+      "amount": "$4987524.18"
+    },
+    {
+      "id": 79,
+      "userid": "12334343",
+      "serviceName": "Health Care",
+      "details": "Garden",
+      "amount": "$3008790.82"
+    },
+    {
+      "id": 80,
+      "userid": "20956075",
+      "serviceName": "Finance",
+      "details": "Beauty",
+      "amount": "$6441148.00"
+    },
+    {
+      "id": 81,
+      "userid": "03997995",
+      "serviceName": "Capital Goods",
+      "details": "Garden",
+      "amount": "$7829508.41"
+    },
+    {
+      "id": 82,
+      "userid": "54300889",
+      "serviceName": "Technology",
+      "details": "Books",
+      "amount": "$6951362.16"
+    },
+    {
+      "id": 83,
+      "userid": "27308095",
+      "serviceName": "Miscellaneous",
+      "details": "Baby",
+      "amount": "$1806416.87"
+    },
+    {
+      "id": 84,
+      "userid": "96529916",
+      "serviceName": "Technology",
+      "details": "Grocery",
+      "amount": "$2382583.60"
+    },
+    {
+      "id": 85,
+      "userid": "29959053",
+      "serviceName": "Health Care",
+      "details": "Movies",
+      "amount": "$4390552.54"
+    },
+    {
+      "id": 86,
+      "userid": "84677091",
+      "serviceName": "Consumer Durables",
+      "details": "Music",
+      "amount": "$689020.69"
+    },
+    {
+      "id": 87,
+      "userid": "91988389",
+      "serviceName": "Technology",
+      "details": "Home",
+      "amount": "$6734556.50"
+    },
+    {
+      "id": 88,
+      "userid": "26992662",
+      "serviceName": "Public Utilities",
+      "details": "Clothing",
+      "amount": "$2721676.89"
+    },
+    {
+      "id": 89,
+      "userid": "93365337",
+      "serviceName": "n/a",
+      "details": "Jewelry",
+      "amount": "$6094655.52"
+    },
+    {
+      "id": 90,
+      "userid": "39253378",
+      "serviceName": "Public Utilities",
+      "details": "Computers",
+      "amount": "$7035975.84"
+    },
+    {
+      "id": 91,
+      "userid": "44350772",
+      "serviceName": "Consumer Durables",
+      "details": "Automotive",
+      "amount": "$851400.27"
+    },
+    {
+      "id": 92,
+      "userid": "39253378",
+      "serviceName": "Health Care",
+      "details": "Industrial",
+      "amount": "$8349627.69"
+    },
+    {
+      "id": 93,
+      "userid": "89864525",
+      "serviceName": "Health Care",
+      "details": "Jewelry",
+      "amount": "$340840.89"
+    },
+    {
+      "id": 94,
+      "userid": "89864525",
+      "serviceName": "n/a",
+      "details": "Music",
+      "amount": "$3946482.70"
+    },
+    {
+      "id": 95,
+      "userid": "82416874",
+      "serviceName": "Technology",
+      "details": "Grocery",
+      "amount": "$4142839.09"
+    },
+    {
+      "id": 96,
+      "userid": "76287969",
+      "serviceName": "Capital Goods",
+      "details": "Sports",
+      "amount": "$3963826.73"
+    },
+    {
+      "id": 97,
+      "userid": "44121791",
+      "serviceName": "Technology",
+      "details": "Kids",
+      "amount": "$2482556.16"
+    },
+    {
+      "id": 98,
+      "userid": "05481178",
+      "serviceName": "n/a",
+      "details": "Garden",
+      "amount": "$4945935.50"
+    },
+    {
+      "id": 99,
+      "userid": "26992662",
+      "serviceName": "Finance",
+      "details": "Movies",
+      "amount": "$1138711.20"
+    },
+    {
+      "id": 100,
+      "userid": "30212277",
+      "serviceName": "n/a",
+      "details": "Computers",
+      "amount": "$3241382.12"
+    }
+  ]
+}

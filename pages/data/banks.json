@@ -1,0 +1,44 @@
+﻿{
+  "banks": [
+    {
+      "id": 1,
+      "bankName": "TECBANK",
+      "bankCode": "TCBK"
+    },
+    {
+      "id": 2,
+      "bankName": "Banco Nacional",
+      "bankCode": "BN"
+    },
+    {
+      "id": 3,
+      "bankName": "Banco de Costa Rica",
+      "bankCode": "BCR"
+    },
+    {
+      "id": 4,
+      "bankName": "BAC",
+      "bankCode": "BAC"
+    },
+    {
+      "id": 5,
+      "bankName": "Banco Popular",
+      "bankCode": "BP"
+    },
+    {
+      "id": 6,
+      "bankName": "DaVivienda",
+      "bankCode": "DV"
+    },
+    {
+      "id": 7,
+      "bankName": "Promerica",
+      "bankCode": "PM"
+    },
+    {
+      "id": 8,
+      "bankName": "Wink",
+      "bankCode": "WK"
+    }
+  ]
+}
