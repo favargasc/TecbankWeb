@@ -3,8 +3,18 @@ import styled from 'styled-components'
 import Head from 'next/head'
 import GlobalStyle from './components/GlobalStyle'
 import Link from 'next/link'
+import {useEffect, useState} from "react";
+import transferData from './data/proofPayments.json'
 
 export default function Transfers() {
+  const [accounts, setAccounts] = useState([])
+  // const [userId, setUserId] = useState([])
+  useEffect(() => {
+    setAccounts(transferData.proofPayments)
+    // const user = await axios.get("../api/students")
+    // setUserId(user)
+  }, [])
+  
   return (
     <div>
       <Head>
