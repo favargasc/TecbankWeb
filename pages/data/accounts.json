@@ -2,1203 +2,603 @@
   "accounts": [
     {
       "id": 1,
-      "resAccount": 5499079200,
-      "reqAccount": "337941777474882",
-      "idCard": "39",
-      "amount": "$849047.81",
-      "details": "Books",
-      "transactionTypeId": 1,
-      "comission": 681.4,
-      "bankId": 6,
-      "date": "2/8/2022"
+      "acountNumber": "3553100935562275",
+      "currentBalance": "$901883.51",
+      "userId": 15904723
     },
     {
       "id": 2,
-      "resAccount": 7537931540,
-      "reqAccount": "491194171514287230",
-      "idCard": "66",
-      "amount": "$212509.92",
-      "details": "Jewelry",
-      "transactionTypeId": 2,
-      "comission": 681.4,
-      "bankId": 5,
-      "date": "1/16/2022"
+      "acountNumber": "3567104191923605",
+      "currentBalance": "$598940.53",
+      "userId": 31379596
     },
     {
       "id": 3,
-      "resAccount": 9655149587,
-      "reqAccount": "3531157146087044",
-      "idCard": "69",
-      "amount": "$963981.34",
-      "details": "Health",
-      "transactionTypeId": 6,
-      "comission": 681.4,
-      "bankId": 7,
-      "date": "3/4/2022"
+      "acountNumber": "3573949113569049",
+      "currentBalance": "$747082.34",
+      "userId": 67801082
     },
     {
       "id": 4,
-      "resAccount": 8735719187,
-      "reqAccount": "30162291737304",
-      "idCard": "81",
-      "amount": "$619389.26",
-      "details": "Sports",
-      "transactionTypeId": 2,
-      "comission": 681.4,
-      "bankId": 4,
-      "date": "5/28/2022"
+      "acountNumber": "5398347929260184",
+      "currentBalance": "$662319.57",
+      "userId": 4105483
     },
     {
       "id": 5,
-      "resAccount": "3576844096893929",
-      "reqAccount": "3531157146087044",
-      "idCard": "15",
-      "amount": "$217023.92",
-      "details": "Outdoors",
-      "transactionTypeId": 10,
-      "comission": 0,
-      "bankId": 1,
-      "date": "6/12/2021"
+      "acountNumber": "5602237097778087",
+      "currentBalance": "$289548.45",
+      "userId": 4105483
     },
     {
       "id": 6,
-      "resAccount": "5100146499905866",
-      "reqAccount": "56100797180629901",
-      "idCard": "57",
-      "amount": "$54081.15",
-      "details": "Beauty",
-      "transactionTypeId": 7,
-      "comission": 0,
-      "bankId": 1,
-      "date": "8/29/2021"
+      "acountNumber": "5602237052651816",
+      "currentBalance": "$812173.16",
+      "userId": 16308645
     },
     {
       "id": 7,
-      "resAccount": 5928954331,
-      "reqAccount": "30051651466093",
-      "idCard": "83",
-      "amount": "$655819.30",
-      "details": "Sports",
-      "transactionTypeId": 3,
-      "comission": 681.4,
-      "bankId": 4,
-      "date": "10/16/2021"
+      "acountNumber": "3586499243208022",
+      "currentBalance": "$112843.32",
+      "userId": 20359658
     },
     {
       "id": 8,
-      "resAccount": "491194171514287230",
-      "reqAccount": "201414123607574",
-      "idCard": "66",
-      "amount": "$352240.45",
-      "details": "Tools",
-      "transactionTypeId": 9,
-      "comission": 0,
-      "bankId": 1,
-      "date": "2/24/2022"
+      "acountNumber": "30366610878091",
+      "currentBalance": "$78427.01",
+      "userId": 76287969
     },
     {
       "id": 9,
-      "resAccount": 7607612487,
-      "reqAccount": "3573949113569049",
-      "idCard": "3",
-      "amount": "$798440.43",
-      "details": "Tools",
-      "transactionTypeId": 10,
-      "comission": 681.4,
-      "bankId": 4,
-      "date": "6/13/2021"
+      "acountNumber": "3578676206168109",
+      "currentBalance": "$144147.22",
+      "userId": 18115228
     },
     {
       "id": 10,
-      "resAccount": 8114132942,
-      "reqAccount": "6334621777223162",
-      "idCard": "17",
-      "amount": "$126535.74",
-      "details": "Industrial",
-      "transactionTypeId": 9,
-      "comission": 681.4,
-      "bankId": 2,
-      "date": "3/16/2022"
+      "acountNumber": "5602214883877605",
+      "currentBalance": "$457130.21",
+      "userId": 54611728
     },
     {
       "id": 11,
-      "resAccount": "3576844096893929",
-      "reqAccount": 7211411544,
-      "idCard": "15",
-      "amount": "$450826.56",
-      "details": "Baby",
-      "transactionTypeId": 7,
-      "comission": 0,
-      "bankId": 1,
-      "date": "12/11/2021"
+      "acountNumber": "6771366836978337",
+      "currentBalance": "$473697.70",
+      "userId": 30212277
     },
     {
       "id": 12,
-      "resAccount": "3572641756613108",
-      "reqAccount": "3588808954709929",
-      "idCard": "24",
-      "amount": "$995271.27",
-      "details": "Electronics",
-      "transactionTypeId": 8,
-      "comission": 0,
-      "bankId": 1,
-      "date": "1/31/2022"
+      "acountNumber": "3529708314940168",
+      "currentBalance": "$45766.26",
+      "userId": 84362303
     },
     {
       "id": 13,
-      "resAccount": 8029916301,
-      "reqAccount": "3563084627493361",
-      "idCard": "54",
-      "amount": "$599102.35",
-      "details": "Clothing",
-      "transactionTypeId": 7,
-      "comission": 681.4,
-      "bankId": 7,
-      "date": "10/13/2021"
+      "acountNumber": "3543179247186745",
+      "currentBalance": "$689352.53",
+      "userId": 62754002
     },
     {
       "id": 14,
-      "resAccount": "3530729819837649",
-      "reqAccount": "5002350213263318",
-      "idCard": "100",
-      "amount": "$369024.04",
-      "details": "Sports",
-      "transactionTypeId": 8,
-      "comission": 0,
-      "bankId": 1,
-      "date": "7/19/2021"
+      "acountNumber": "3530626987242125",
+      "currentBalance": "$578725.26",
+      "userId": 69958787
     },
     {
       "id": 15,
-      "resAccount": 4525394261,
-      "reqAccount": "6334621777223162",
-      "idCard": "17",
-      "amount": "$578586.32",
-      "details": "Industrial",
-      "transactionTypeId": 7,
-      "comission": 0,
-      "bankId": 5,
-      "date": "11/14/2021"
+      "acountNumber": "3576844096893929",
+      "currentBalance": "$539960.77",
+      "userId": 60536966
     },
     {
       "id": 16,
-      "resAccount": "5128784327204108",
-      "reqAccount": "5038504245158665007",
-      "idCard": "46",
-      "amount": "$57590.50",
-      "details": "Electronics",
-      "transactionTypeId": 10,
-      "comission": 0,
-      "bankId": 1,
-      "date": "5/8/2022"
+      "acountNumber": "3557013919863203",
+      "currentBalance": "$327150.33",
+      "userId": 39206139
     },
     {
       "id": 17,
-      "resAccount": 4872504603,
-      "reqAccount": "5602227833053384185",
-      "idCard": "50",
-      "amount": "$604000.87",
-      "details": "Tools",
-      "transactionTypeId": 4,
-      "comission": 0,
-      "bankId": 4,
-      "date": "4/3/2022"
+      "acountNumber": "6334621777223162",
+      "currentBalance": "$431431.18",
+      "userId": 52361987
     },
     {
       "id": 18,
-      "resAccount": "5501703571439217",
-      "reqAccount": 6591811670,
-      "idCard": "90",
-      "amount": "$550357.05",
-      "details": "Automotive",
-      "transactionTypeId": 1,
-      "comission": 681.4,
-      "bankId": 1,
-      "date": "4/18/2022"
+      "acountNumber": "4175005877512475",
+      "currentBalance": "$530723.83",
+      "userId": 76287969
     },
     {
       "id": 19,
-      "resAccount": 9003654972,
-      "reqAccount": "3555198611521811",
-      "idCard": "20",
-      "amount": "$340266.29",
-      "details": "Outdoors",
-      "transactionTypeId": 1,
-      "comission": 681.4,
-      "bankId": 8,
-      "date": "6/8/2021"
+      "acountNumber": "3549087738769123",
+      "currentBalance": "$649930.44",
+      "userId": 54300889
     },
     {
       "id": 20,
-      "resAccount": "3556159569454313",
-      "reqAccount": 3757340268,
-      "idCard": "79",
-      "amount": "$610134.60",
-      "details": "Grocery",
-      "transactionTypeId": 10,
-      "comission": 681.4,
-      "bankId": 1,
-      "date": "5/2/2022"
+      "acountNumber": "3555198611521811",
+      "currentBalance": "$573489.54",
+      "userId": 77302728
     },
     {
       "id": 21,
-      "resAccount": 1826624607,
-      "reqAccount": "675987330780792468",
-      "idCard": "36",
-      "amount": "$175633.11",
-      "details": "Home",
-      "transactionTypeId": 8,
-      "comission": 681.4,
-      "bankId": 2,
-      "date": "8/31/2021"
+      "acountNumber": "3530207787459498",
+      "currentBalance": "$38930.91",
+      "userId": 96529916
     },
     {
       "id": 22,
-      "resAccount": 4297778436,
-      "reqAccount": "201414123607574",
-      "idCard": "85",
-      "amount": "$268567.09",
-      "details": "Automotive",
-      "transactionTypeId": 10,
-      "comission": 681.4,
-      "bankId": 3,
-      "date": "12/28/2021"
+      "acountNumber": "5610213372802470",
+      "currentBalance": "$30459.72",
+      "userId": 8098294
     },
     {
       "id": 23,
-      "resAccount": "6759837737146741",
-      "reqAccount": "3563668072855239",
-      "idCard": "95",
-      "amount": "$150467.71",
-      "details": "Outdoors",
-      "transactionTypeId": 3,
-      "comission": 0,
-      "bankId": 1,
-      "date": "6/22/2021"
+      "acountNumber": "3532715835093323",
+      "currentBalance": "$969881.99",
+      "userId": 22247152
     },
     {
       "id": 24,
-      "resAccount": "3555198611521811",
-      "reqAccount": 5398525461,
-      "idCard": "20",
-      "amount": "$472161.37",
-      "details": "Home",
-      "transactionTypeId": 5,
-      "comission": 0,
-      "bankId": 1,
-      "date": "3/3/2022"
+      "acountNumber": "3572641756613108",
+      "currentBalance": "$673348.59",
+      "userId": 97624164
     },
     {
       "id": 25,
-      "resAccount": 9264780367,
-      "reqAccount": "3589322910062943",
-      "idCard": "42",
-      "amount": "$415559.18",
-      "details": "Baby",
-      "transactionTypeId": 6,
-      "comission": 0,
-      "bankId": 6,
-      "date": "1/27/2022"
+      "acountNumber": "30215643777517",
+      "currentBalance": "$301052.01",
+      "userId": 60701425
     },
     {
       "id": 26,
-      "resAccount": "36856434775675",
-      "reqAccount": "30051651466093",
-      "idCard": "78",
-      "amount": "$947050.43",
-      "details": "Kids",
-      "transactionTypeId": 9,
-      "comission": 681.4,
-      "bankId": 1,
-      "date": "6/27/2021"
+      "acountNumber": "3535019059764751",
+      "currentBalance": "$853399.49",
+      "userId": 19721745
     },
     {
       "id": 27,
-      "resAccount": "30215643777517",
-      "reqAccount": 4077881009,
-      "idCard": "25",
-      "amount": "$416932.48",
-      "details": "Movies",
-      "transactionTypeId": 5,
-      "comission": 0,
-      "bankId": 1,
-      "date": "1/17/2022"
+      "acountNumber": "3548204209396531",
+      "currentBalance": "$96375.04",
+      "userId": 84362303
     },
     {
       "id": 28,
-      "resAccount": 3932363050,
-      "reqAccount": "5602214883877605",
-      "idCard": "10",
-      "amount": "$877306.33",
-      "details": "Automotive",
-      "transactionTypeId": 7,
-      "comission": 0,
-      "bankId": 6,
-      "date": "2/21/2022"
+      "acountNumber": "3579580254509207",
+      "currentBalance": "$258241.99",
+      "userId": 42503630
     },
     {
       "id": 29,
-      "resAccount": 2623119364,
-      "reqAccount": "4903215447455316",
-      "idCard": "60",
-      "amount": "$401192.65",
-      "details": "Automotive",
-      "transactionTypeId": 7,
-      "comission": 681.4,
-      "bankId": 6,
-      "date": "3/9/2022"
+      "acountNumber": "3543317547388138",
+      "currentBalance": "$979797.37",
+      "userId": 44112217
     },
     {
       "id": 30,
-      "resAccount": "3540908623106171",
-      "reqAccount": "374283213840820",
-      "idCard": "41",
-      "amount": "$521198.11",
-      "details": "Automotive",
-      "transactionTypeId": 7,
-      "comission": 681.4,
-      "bankId": 1,
-      "date": "4/16/2022"
+      "acountNumber": "3529042482124086",
+      "currentBalance": "$977108.25",
+      "userId": 95343721
     },
     {
       "id": 31,
-      "resAccount": 6328753627,
-      "reqAccount": "5152675153016104",
-      "idCard": "73",
-      "amount": "$403867.24",
-      "details": "Kids",
-      "transactionTypeId": 5,
-      "comission": 681.4,
-      "bankId": 3,
-      "date": "8/4/2021"
+      "acountNumber": "5007660829156457",
+      "currentBalance": "$232176.72",
+      "userId": 14626152
     },
     {
       "id": 32,
-      "resAccount": "5501703571439217",
-      "reqAccount": "3557013919863203",
-      "idCard": "90",
-      "amount": "$219656.55",
-      "details": "Grocery",
-      "transactionTypeId": 9,
-      "comission": 681.4,
-      "bankId": 1,
-      "date": "5/7/2022"
+      "acountNumber": "56100797180629901",
+      "currentBalance": "$42573.35",
+      "userId": 42503630
     },
     {
       "id": 33,
-      "resAccount": "5610213372802470",
-      "reqAccount": 4514581955,
-      "idCard": "22",
-      "amount": "$690371.23",
-      "details": "Kids",
-      "transactionTypeId": 2,
-      "comission": 681.4,
-      "bankId": 1,
-      "date": "12/4/2021"
+      "acountNumber": "5002350213263318",
+      "currentBalance": "$851098.13",
+      "userId": 62754002
     },
     {
       "id": 34,
-      "resAccount": 6967884798,
-      "reqAccount": "3529708314940168",
-      "idCard": "12",
-      "amount": "$146127.09",
-      "details": "Toys",
-      "transactionTypeId": 9,
-      "comission": 681.4,
-      "bankId": 8,
-      "date": "7/29/2021"
+      "acountNumber": "6331104795828758022",
+      "currentBalance": "$516109.86",
+      "userId": 67941598
     },
     {
       "id": 35,
-      "resAccount": "675987330780792468",
-      "reqAccount": 3341972567,
-      "idCard": "36",
-      "amount": "$198556.62",
-      "details": "Baby",
-      "transactionTypeId": 2,
-      "comission": 681.4,
-      "bankId": 1,
-      "date": "10/6/2021"
+      "acountNumber": "6767474560464026747",
+      "currentBalance": "$618757.22",
+      "userId": 96529916
     },
     {
       "id": 36,
-      "resAccount": "6763114502043625701",
-      "reqAccount": "error: Access denied to method <.",
-      "idCard": "68",
-      "amount": "$992725.98",
-      "details": "Automotive",
-      "transactionTypeId": 2,
-      "comission": 0,
-      "bankId": 1,
-      "date": "12/12/2021"
+      "acountNumber": "675987330780792468",
+      "currentBalance": "$818212.30",
+      "userId": 73409698
     },
     {
       "id": 37,
-      "resAccount": 4476943776,
-      "reqAccount": "374622775135014",
-      "idCard": "94",
-      "amount": "$183028.13",
-      "details": "Jewelry",
-      "transactionTypeId": 4,
-      "comission": 0,
-      "bankId": 4,
-      "date": "12/29/2021"
+      "acountNumber": "4041372314687472",
+      "currentBalance": "$30657.31",
+      "userId": 50370268
     },
     {
       "id": 38,
-      "resAccount": 1300219437,
-      "reqAccount": "3587199748525891",
-      "idCard": "87",
-      "amount": "$300580.15",
-      "details": "Kids",
-      "transactionTypeId": 5,
-      "comission": 0,
-      "bankId": 6,
-      "date": "4/11/2022"
+      "acountNumber": "5602222490828853",
+      "currentBalance": "$876995.77",
+      "userId": 44112217
     },
     {
       "id": 39,
-      "resAccount": "560221794420188777",
-      "reqAccount": "3546695428412250",
-      "idCard": "56",
-      "amount": "$984935.36",
-      "details": "Clothing",
-      "transactionTypeId": 3,
-      "comission": 0,
-      "bankId": 1,
-      "date": "11/6/2021"
+      "acountNumber": "337941777474882",
+      "currentBalance": "$23220.69",
+      "userId": 97050364
     },
     {
       "id": 40,
-      "resAccount": "3534354942230103",
-      "reqAccount": "3528441321698469",
-      "idCard": "72",
-      "amount": "$45940.21",
-      "details": "Tools",
-      "transactionTypeId": 8,
-      "comission": 0,
-      "bankId": 1,
-      "date": "2/12/2022"
+      "acountNumber": "3531736907581020",
+      "currentBalance": "$864903.99",
+      "userId": 22247152
     },
     {
       "id": 41,
-      "resAccount": 7587360820,
-      "reqAccount": "5038504245158665007",
-      "idCard": "74",
-      "amount": "$562989.88",
-      "details": "Games",
-      "transactionTypeId": 4,
-      "comission": 0,
-      "bankId": 8,
-      "date": "7/17/2021"
+      "acountNumber": "3540908623106171",
+      "currentBalance": "$410979.89",
+      "userId": 4105483
     },
     {
       "id": 42,
-      "resAccount": "3556084937693360",
-      "reqAccount": "3530729819837649",
-      "idCard": "47",
-      "amount": "$227501.73",
-      "details": "Garden",
-      "transactionTypeId": 1,
-      "comission": 681.4,
-      "bankId": 1,
-      "date": "7/16/2021"
+      "acountNumber": "3589322910062943",
+      "currentBalance": "$361482.06",
+      "userId": 69958787
     },
     {
       "id": 43,
-      "resAccount": 4761852547,
-      "reqAccount": "3530729819837649",
-      "idCard": "100",
-      "amount": "$326412.28",
-      "details": "Automotive",
-      "transactionTypeId": 9,
-      "comission": 0,
-      "bankId": 4,
-      "date": "12/31/2021"
+      "acountNumber": "3588808954709929",
+      "currentBalance": "$375974.77",
+      "userId": 84362303
     },
     {
       "id": 44,
-      "resAccount": "6331104795828758022",
-      "reqAccount": "error: Access denied to method <.",
-      "idCard": "34",
-      "amount": "$686514.95",
-      "details": "Sports",
-      "transactionTypeId": 7,
-      "comission": 0,
-      "bankId": 1,
-      "date": "9/27/2021"
+      "acountNumber": "375508101884376",
+      "currentBalance": "$473109.10",
+      "userId": 22247152
     },
     {
       "id": 45,
-      "resAccount": "3561944760689285",
-      "reqAccount": "3531157146087044",
-      "idCard": "65",
-      "amount": "$461956.76",
-      "details": "Automotive",
-      "transactionTypeId": 9,
-      "comission": 0,
-      "bankId": 1,
-      "date": "2/7/2022"
+      "acountNumber": "5240537792281198",
+      "currentBalance": "$36284.76",
+      "userId": 14626152
     },
     {
       "id": 46,
-      "resAccount": "3546695428412250",
-      "reqAccount": "375508101884376",
-      "idCard": "86",
-      "amount": "$513376.03",
-      "details": "Clothing",
-      "transactionTypeId": 5,
-      "comission": 0,
-      "bankId": 1,
-      "date": "3/30/2022"
+      "acountNumber": "5128784327204108",
+      "currentBalance": "$282560.99",
+      "userId": 93365337
     },
     {
       "id": 47,
-      "resAccount": 8958336484,
-      "reqAccount": "4175005877512475",
-      "idCard": "18",
-      "amount": "$367083.39",
-      "details": "Garden",
-      "transactionTypeId": 3,
-      "comission": 681.4,
-      "bankId": 2,
-      "date": "4/13/2022"
+      "acountNumber": "3556084937693360",
+      "currentBalance": "$186880.99",
+      "userId": 8256810
     },
     {
       "id": 48,
-      "resAccount": 2688187970,
-      "reqAccount": "6767474560464026747",
-      "idCard": "35",
-      "amount": "$393007.89",
-      "details": "Music",
-      "transactionTypeId": 5,
-      "comission": 0,
-      "bankId": 3,
-      "date": "2/20/2022"
+      "acountNumber": "337941162860737",
+      "currentBalance": "$47682.72",
+      "userId": 89969141
     },
     {
       "id": 49,
-      "resAccount": 6135136381,
-      "reqAccount": "5602227833053384185",
-      "idCard": "50",
-      "amount": "$488068.78",
-      "details": "Sports",
-      "transactionTypeId": 2,
-      "comission": 681.4,
-      "bankId": 7,
-      "date": "4/17/2022"
+      "acountNumber": "3570569013045842",
+      "currentBalance": "$101865.16",
+      "userId": 16455608
     },
     {
       "id": 50,
-      "resAccount": "30215643777517",
-      "reqAccount": "4903215447455316",
-      "idCard": "25",
-      "amount": "$732962.30",
-      "details": "Beauty",
-      "transactionTypeId": 4,
-      "comission": 681.4,
-      "bankId": 1,
-      "date": "3/22/2022"
+      "acountNumber": "5602227833053384185",
+      "currentBalance": "$787441.87",
+      "userId": 67295682
     },
     {
       "id": 51,
-      "resAccount": "337941876439646",
-      "reqAccount": 6463720945,
-      "idCard": "61",
-      "amount": "$118281.22",
-      "details": "Kids",
-      "transactionTypeId": 6,
-      "comission": 0,
-      "bankId": 1,
-      "date": "9/20/2021"
+      "acountNumber": "4844911726733306",
+      "currentBalance": "$247442.42",
+      "userId": 68041664
     },
     {
       "id": 52,
-      "resAccount": "3561944760689285",
-      "reqAccount": "3535019059764751",
-      "idCard": "65",
-      "amount": "$976837.18",
-      "details": "Garden",
-      "transactionTypeId": 2,
-      "comission": 681.4,
-      "bankId": 1,
-      "date": "6/12/2021"
+      "acountNumber": "3563668072855239",
+      "currentBalance": "$617767.13",
+      "userId": 38037999
     },
     {
       "id": 53,
-      "resAccount": "060472228100649060",
-      "reqAccount": "3530729819837649",
-      "idCard": "55",
-      "amount": "$796656.22",
-      "details": "Books",
-      "transactionTypeId": 9,
-      "comission": 0,
-      "bankId": 1,
-      "date": "11/11/2021"
+      "acountNumber": "676708594684367950",
+      "currentBalance": "$375755.82",
+      "userId": 30212277
     },
     {
       "id": 54,
-      "resAccount": "375508101884376",
-      "reqAccount": 7831344684,
-      "idCard": "44",
-      "amount": "$245514.18",
-      "details": "Garden",
-      "transactionTypeId": 2,
-      "comission": 681.4,
-      "bankId": 1,
-      "date": "1/17/2022"
+      "acountNumber": "3563084627493361",
+      "currentBalance": "$389815.88",
+      "userId": 67295682
     },
     {
       "id": 55,
-      "resAccount": "3567104191923605",
-      "reqAccount": 7214458689,
-      "idCard": "2",
-      "amount": "$432819.00",
-      "details": "Shoes",
-      "transactionTypeId": 4,
-      "comission": 0,
-      "bankId": 1,
-      "date": "12/12/2021"
+      "acountNumber": "060472228100649060",
+      "currentBalance": "$257559.05",
+      "userId": 46612365
     },
     {
       "id": 56,
-      "resAccount": "337941876439646",
-      "reqAccount": 4025578595,
-      "idCard": "61",
-      "amount": "$102857.83",
-      "details": "Beauty",
-      "transactionTypeId": 4,
-      "comission": 681.4,
-      "bankId": 1,
-      "date": "6/14/2021"
+      "acountNumber": "560221794420188777",
+      "currentBalance": "$661950.07",
+      "userId": 68041664
     },
     {
       "id": 57,
-      "resAccount": 4619835928,
-      "reqAccount": "3535019059764751",
-      "idCard": "26",
-      "amount": "$716871.04",
-      "details": "Computers",
-      "transactionTypeId": 2,
-      "comission": 681.4,
-      "bankId": 4,
-      "date": "1/22/2022"
+      "acountNumber": "5100146499905866",
+      "currentBalance": "$928613.49",
+      "userId": 73411574
     },
     {
       "id": 58,
-      "resAccount": "5010125069182725",
-      "reqAccount": 4586655519,
-      "idCard": "89",
-      "amount": "$823480.31",
-      "details": "Tools",
-      "transactionTypeId": 1,
-      "comission": 0,
-      "bankId": 1,
-      "date": "12/2/2021"
+      "acountNumber": "3558729668269107",
+      "currentBalance": "$849289.42",
+      "userId": 14626152
     },
     {
       "id": 59,
-      "resAccount": 3317398134,
-      "reqAccount": "337941876439646",
-      "idCard": "61",
-      "amount": "$105664.91",
-      "details": "Shoes",
-      "transactionTypeId": 2,
-      "comission": 0,
-      "bankId": 2,
-      "date": "8/25/2021"
+      "acountNumber": "3543622516706479",
+      "currentBalance": "$788455.09",
+      "userId": 8256810
     },
     {
       "id": 60,
-      "resAccount": 8977504012,
-      "reqAccount": "3563084627493361",
-      "idCard": "54",
-      "amount": "$652050.24",
-      "details": "Sports",
-      "transactionTypeId": 8,
-      "comission": 681.4,
-      "bankId": 3,
-      "date": "10/25/2021"
+      "acountNumber": "4903215447455316",
+      "currentBalance": "$822098.47",
+      "userId": 14287682
     },
     {
       "id": 61,
-      "resAccount": "3549087738769123",
-      "reqAccount": 6502133340,
-      "idCard": "19",
-      "amount": "$942248.88",
-      "details": "Games",
-      "transactionTypeId": 6,
-      "comission": 681.4,
-      "bankId": 1,
-      "date": "3/26/2022"
+      "acountNumber": "337941876439646",
+      "currentBalance": "$933514.13",
+      "userId": 16308645
     },
     {
       "id": 62,
-      "resAccount": 5845495093,
-      "reqAccount": "3579580254509207",
-      "idCard": "28",
-      "amount": "$73011.28",
-      "details": "Beauty",
-      "transactionTypeId": 8,
-      "comission": 0,
-      "bankId": 5,
-      "date": "3/6/2022"
+      "acountNumber": "3560632815639659",
+      "currentBalance": "$399728.14",
+      "userId": 88071785
     },
     {
       "id": 63,
-      "resAccount": "4844675389641664",
-      "reqAccount": 4167059008,
-      "idCard": "91",
-      "amount": "$514354.40",
-      "details": "Toys",
-      "transactionTypeId": 6,
-      "comission": 681.4,
-      "bankId": 1,
-      "date": "12/1/2021"
+      "acountNumber": "5586331262534597",
+      "currentBalance": "$457959.60",
+      "userId": 82416874
     },
     {
       "id": 64,
-      "resAccount": "491194171514287230",
-      "reqAccount": 7280343605,
-      "idCard": "66",
-      "amount": "$286512.03",
-      "details": "Beauty",
-      "transactionTypeId": 10,
-      "comission": 681.4,
-      "bankId": 1,
-      "date": "3/22/2022"
+      "acountNumber": "4175000416774926",
+      "currentBalance": "$169501.13",
+      "userId": 95343721
     },
     {
       "id": 65,
-      "resAccount": "4903215447455316",
-      "reqAccount": 5036694833,
-      "idCard": "60",
-      "amount": "$692219.45",
-      "details": "Shoes",
-      "transactionTypeId": 8,
-      "comission": 0,
-      "bankId": 1,
-      "date": "8/31/2021"
+      "acountNumber": "3561944760689285",
+      "currentBalance": "$592994.49",
+      "userId": 11306060
     },
     {
       "id": 66,
-      "resAccount": 9775996663,
-      "reqAccount": "3546695428412250",
-      "idCard": "86",
-      "amount": "$890574.68",
-      "details": "Automotive",
-      "transactionTypeId": 3,
-      "comission": 0,
-      "bankId": 5,
-      "date": "5/22/2022"
+      "acountNumber": "491194171514287230",
+      "currentBalance": "$927873.07",
+      "userId": 68041664
     },
     {
       "id": 67,
-      "resAccount": "36856434775675",
-      "reqAccount": 9920460410,
-      "idCard": "78",
-      "amount": "$575027.53",
-      "details": "Kids",
-      "transactionTypeId": 4,
-      "comission": 681.4,
-      "bankId": 1,
-      "date": "4/9/2022"
+      "acountNumber": "3552549678942279",
+      "currentBalance": "$263571.25",
+      "userId": 63542525
     },
     {
       "id": 68,
-      "resAccount": 8906082107,
-      "reqAccount": "5602222490828853",
-      "idCard": "38",
-      "amount": "$546997.76",
-      "details": "Music",
-      "transactionTypeId": 1,
-      "comission": 681.4,
-      "bankId": 6,
-      "date": "9/30/2021"
+      "acountNumber": "6763114502043625701",
+      "currentBalance": "$564814.67",
+      "userId": 11306060
     },
     {
       "id": 69,
-      "resAccount": "5398347929260184",
-      "reqAccount": 1659716080,
-      "idCard": "4",
-      "amount": "$146884.82",
-      "details": "Electronics",
-      "transactionTypeId": 9,
-      "comission": 681.4,
-      "bankId": 1,
-      "date": "1/29/2022"
+      "acountNumber": "3531157146087044",
+      "currentBalance": "$665178.81",
+      "userId": 44350772
     },
     {
       "id": 70,
-      "resAccount": 8956579312,
-      "reqAccount": "4041372314687472",
-      "idCard": "37",
-      "amount": "$226904.47",
-      "details": "Books",
-      "transactionTypeId": 2,
-      "comission": 0,
-      "bankId": 7,
-      "date": "10/4/2021"
+      "acountNumber": "670992501747065065",
+      "currentBalance": "$656919.02",
+      "userId": 11306060
     },
     {
       "id": 71,
-      "resAccount": "3530207787459498",
-      "reqAccount": "3556084937693360",
-      "idCard": "21",
-      "amount": "$928350.24",
-      "details": "Health",
-      "transactionTypeId": 6,
-      "comission": 681.4,
-      "bankId": 1,
-      "date": "1/15/2022"
+      "acountNumber": "374622935715382",
+      "currentBalance": "$177380.19",
+      "userId": 77835181
     },
     {
       "id": 72,
-      "resAccount": "5100178451008280",
-      "reqAccount": 1962208518,
-      "idCard": "75",
-      "amount": "$807289.73",
-      "details": "Computers",
-      "transactionTypeId": 2,
-      "comission": 681.4,
-      "bankId": 1,
-      "date": "11/17/2021"
+      "acountNumber": "3534354942230103",
+      "currentBalance": "$198442.72",
+      "userId": 81927625
     },
     {
       "id": 73,
-      "resAccount": 9792762738,
-      "reqAccount": "3535019059764751",
-      "idCard": "26",
-      "amount": "$245701.86",
-      "details": "Jewelry",
-      "transactionTypeId": 9,
-      "comission": 0,
-      "bankId": 4,
-      "date": "12/28/2021"
+      "acountNumber": "5152675153016104",
+      "currentBalance": "$6231.58",
+      "userId": 26260337
     },
     {
       "id": 74,
-      "resAccount": 3434951297,
-      "reqAccount": "3552549678942279",
-      "idCard": "67",
-      "amount": "$572502.17",
-      "details": "Grocery",
-      "transactionTypeId": 10,
-      "comission": 681.4,
-      "bankId": 4,
-      "date": "4/26/2022"
+      "acountNumber": "5038504245158665007",
+      "currentBalance": "$798079.40",
+      "userId": 54611728
     },
     {
       "id": 75,
-      "resAccount": "3587199748525891",
-      "reqAccount": "3579580254509207",
-      "idCard": "87",
-      "amount": "$640652.35",
-      "details": "Grocery",
-      "transactionTypeId": 5,
-      "comission": 681.4,
-      "bankId": 1,
-      "date": "11/10/2021"
+      "acountNumber": "5100178451008280",
+      "currentBalance": "$480976.34",
+      "userId": 16455608
     },
     {
       "id": 76,
-      "resAccount": 3325375112,
-      "reqAccount": "3570569013045842",
-      "idCard": "49",
-      "amount": "$740299.41",
-      "details": "Grocery",
-      "transactionTypeId": 5,
-      "comission": 0,
-      "bankId": 2,
-      "date": "7/12/2021"
+      "acountNumber": "4041590537593",
+      "currentBalance": "$249460.18",
+      "userId": 54611728
     },
     {
       "id": 77,
-      "resAccount": 8595356254,
-      "reqAccount": "3556084937693360",
-      "idCard": "47",
-      "amount": "$594986.30",
-      "details": "Beauty",
-      "transactionTypeId": 3,
-      "comission": 0,
-      "bankId": 7,
-      "date": "11/1/2021"
+      "acountNumber": "3528873622198668",
+      "currentBalance": "$399631.49",
+      "userId": 59736238
     },
     {
       "id": 78,
-      "resAccount": "3543622516706479",
-      "reqAccount": 8943264957,
-      "idCard": "59",
-      "amount": "$221485.64",
-      "details": "Kids",
-      "transactionTypeId": 2,
-      "comission": 0,
-      "bankId": 1,
-      "date": "8/7/2021"
+      "acountNumber": "36856434775675",
+      "currentBalance": "$667185.24",
+      "userId": 44112217
     },
     {
       "id": 79,
-      "resAccount": 6009061292,
-      "reqAccount": "5020575512483237",
-      "idCard": "82",
-      "amount": "$186183.53",
-      "details": "Outdoors",
-      "transactionTypeId": 5,
-      "comission": 681.4,
-      "bankId": 2,
-      "date": "9/24/2021"
+      "acountNumber": "3556159569454313",
+      "currentBalance": "$686101.03",
+      "userId": 39206139
     },
     {
       "id": 80,
-      "resAccount": 4984710328,
-      "reqAccount": "060472228100649060",
-      "idCard": "55",
-      "amount": "$937332.34",
-      "details": "Sports",
-      "transactionTypeId": 6,
-      "comission": 681.4,
-      "bankId": 5,
-      "date": "4/21/2022"
+      "acountNumber": "3528441321698469",
+      "currentBalance": "$972017.85",
+      "userId": 55931913
     },
     {
       "id": 81,
-      "resAccount": 7872728908,
-      "reqAccount": "50184221996700618",
-      "idCard": "88",
-      "amount": "$485041.42",
-      "details": "Beauty",
-      "transactionTypeId": 9,
-      "comission": 0,
-      "bankId": 5,
-      "date": "6/13/2021"
+      "acountNumber": "30162291737304",
+      "currentBalance": "$442828.81",
+      "userId": 1143952
     },
     {
       "id": 82,
-      "resAccount": "4917893285068039",
-      "reqAccount": "5152675153016104",
-      "idCard": "92",
-      "amount": "$758129.17",
-      "details": "Computers",
-      "transactionTypeId": 4,
-      "comission": 681.4,
-      "bankId": 1,
-      "date": "8/9/2021"
+      "acountNumber": "5020575512483237",
+      "currentBalance": "$784800.03",
+      "userId": 44350772
     },
     {
       "id": 83,
-      "resAccount": 2592770138,
-      "reqAccount": "3587199748525891",
-      "idCard": "87",
-      "amount": "$773970.21",
-      "details": "Games",
-      "transactionTypeId": 1,
-      "comission": 681.4,
-      "bankId": 5,
-      "date": "4/2/2022"
+      "acountNumber": "30051651466093",
+      "currentBalance": "$773494.04",
+      "userId": 30069295
     },
     {
       "id": 84,
-      "resAccount": "30162291737304",
-      "reqAccount": "5020575512483237",
-      "idCard": "81",
-      "amount": "$65677.77",
-      "details": "Home",
-      "transactionTypeId": 8,
-      "comission": 0,
-      "bankId": 1,
-      "date": "10/22/2021"
+      "acountNumber": "30171979343459",
+      "currentBalance": "$290530.00",
+      "userId": 39206139
     },
     {
       "id": 85,
-      "resAccount": 5799763344,
-      "reqAccount": "5152675153016104",
-      "idCard": "73",
-      "amount": "$127688.53",
-      "details": "Movies",
-      "transactionTypeId": 2,
-      "comission": 681.4,
-      "bankId": 7,
-      "date": "11/27/2021"
+      "acountNumber": "201414123607574",
+      "currentBalance": "$79638.56",
+      "userId": 67941598
     },
     {
       "id": 86,
-      "resAccount": "3530729819837649",
-      "reqAccount": 8015013124,
-      "idCard": "100",
-      "amount": "$757160.21",
-      "details": "Jewelry",
-      "transactionTypeId": 7,
-      "comission": 681.4,
-      "bankId": 1,
-      "date": "3/13/2022"
+      "acountNumber": "3546695428412250",
+      "currentBalance": "$332097.81",
+      "userId": 67295682
     },
     {
       "id": 87,
-      "resAccount": 8076552943,
-      "reqAccount": "3557013919863203",
-      "idCard": "16",
-      "amount": "$800932.38",
-      "details": "Home",
-      "transactionTypeId": 2,
-      "comission": 0,
-      "bankId": 6,
-      "date": "3/25/2022"
+      "acountNumber": "3587199748525891",
+      "currentBalance": "$919349.81",
+      "userId": 97050364
     },
     {
       "id": 88,
-      "resAccount": 7531351418,
-      "reqAccount": "3561944760689285",
-      "idCard": "65",
-      "amount": "$249397.57",
-      "details": "Kids",
-      "transactionTypeId": 3,
-      "comission": 681.4,
-      "bankId": 5,
-      "date": "4/19/2022"
+      "acountNumber": "50184221996700618",
+      "currentBalance": "$6242.09",
+      "userId": 45645967
     },
     {
       "id": 89,
-      "resAccount": "5100146499905866",
-      "reqAccount": 5373875220,
-      "idCard": "57",
-      "amount": "$938496.43",
-      "details": "Beauty",
-      "transactionTypeId": 10,
-      "comission": 0,
-      "bankId": 1,
-      "date": "4/18/2022"
+      "acountNumber": "5010125069182725",
+      "currentBalance": "$930313.32",
+      "userId": 50370268
     },
     {
       "id": 90,
-      "resAccount": "5128784327204108",
-      "reqAccount": 6339908121,
-      "idCard": "46",
-      "amount": "$521075.48",
-      "details": "Jewelry",
-      "transactionTypeId": 6,
-      "comission": 0,
-      "bankId": 1,
-      "date": "7/24/2021"
+      "acountNumber": "5501703571439217",
+      "currentBalance": "$601942.47",
+      "userId": 30069295
     },
     {
       "id": 91,
-      "resAccount": "5100178451008280",
-      "reqAccount": "5020575512483237",
-      "idCard": "75",
-      "amount": "$387814.97",
-      "details": "Books",
-      "transactionTypeId": 10,
-      "comission": 681.4,
-      "bankId": 1,
-      "date": "11/24/2021"
+      "acountNumber": "4844675389641664",
+      "currentBalance": "$316320.56",
+      "userId": 20359658
     },
     {
       "id": 92,
-      "resAccount": 9350119623,
-      "reqAccount": "3543317547388138",
-      "idCard": "29",
-      "amount": "$229442.55",
-      "details": "Clothing",
-      "transactionTypeId": 5,
-      "comission": 0,
-      "bankId": 5,
-      "date": "2/15/2022"
+      "acountNumber": "4917893285068039",
+      "currentBalance": "$879527.35",
+      "userId": 42503630
     },
     {
       "id": 93,
-      "resAccount": 1314947412,
-      "reqAccount": "201414123607574",
-      "idCard": "85",
-      "amount": "$979151.47",
-      "details": "Grocery",
-      "transactionTypeId": 8,
-      "comission": 0,
-      "bankId": 4,
-      "date": "1/22/2022"
+      "acountNumber": "3585309944372194",
+      "currentBalance": "$874075.83",
+      "userId": 31379596
     },
     {
       "id": 94,
-      "resAccount": "50184221996700618",
-      "reqAccount": "5007660829156457",
-      "idCard": "88",
-      "amount": "$906241.45",
-      "details": "Books",
-      "transactionTypeId": 8,
-      "comission": 681.4,
-      "bankId": 1,
-      "date": "1/4/2022"
+      "acountNumber": "374622775135014",
+      "currentBalance": "$56337.36",
+      "userId": 52361987
     },
     {
       "id": 95,
-      "resAccount": 8844184849,
-      "reqAccount": "30171979343459",
-      "idCard": "84",
-      "amount": "$108828.08",
-      "details": "Health",
-      "transactionTypeId": 9,
-      "comission": 681.4,
-      "bankId": 8,
-      "date": "12/8/2021"
+      "acountNumber": "6759837737146741",
+      "currentBalance": "$52696.98",
+      "userId": 97050364
     },
     {
       "id": 96,
-      "resAccount": "4917893285068039",
-      "reqAccount": "4917893285068039",
-      "idCard": "92",
-      "amount": "$588536.00",
-      "details": "Electronics",
-      "transactionTypeId": 4,
-      "comission": 681.4,
-      "bankId": 1,
-      "date": "12/18/2021"
+      "acountNumber": "201915808662627",
+      "currentBalance": "$922547.97",
+      "userId": 11306060
     },
     {
       "id": 97,
-      "resAccount": "060472228100649060",
-      "reqAccount": "3530729819837649",
-      "idCard": "55",
-      "amount": "$63020.41",
-      "details": "Grocery",
-      "transactionTypeId": 4,
-      "comission": 0,
-      "bankId": 1,
-      "date": "8/1/2021"
+      "acountNumber": "374283213840820",
+      "currentBalance": "$826693.87",
+      "userId": 96529916
     },
     {
       "id": 98,
-      "resAccount": 6162467477,
-      "reqAccount": "5602227833053384185",
-      "idCard": "50",
-      "amount": "$542905.39",
-      "details": "Outdoors",
-      "transactionTypeId": 6,
-      "comission": 681.4,
-      "bankId": 2,
-      "date": "10/27/2021"
+      "acountNumber": "3575907006434133",
+      "currentBalance": "$778657.23",
+      "userId": 5481178
     },
     {
       "id": 99,
-      "resAccount": "3543622516706479",
-      "reqAccount": "5152675153016104",
-      "idCard": "59",
-      "amount": "$527961.77",
-      "details": "Tools",
-      "transactionTypeId": 2,
-      "comission": 681.4,
-      "bankId": 1,
-      "date": "3/2/2022"
+      "acountNumber": "3587759152105033",
+      "currentBalance": "$684552.18",
+      "userId": 89765971
     },
     {
       "id": 100,
-      "resAccount": "3531157146087044",
-      "reqAccount": "4041590537593",
-      "idCard": "69",
-      "amount": "$76022.37",
-      "details": "Tools",
-      "transactionTypeId": 3,
-      "comission": 681.4,
-      "bankId": 1,
-      "date": "8/25/2021"
+      "acountNumber": "3530729819837649",
+      "currentBalance": "$9820.03",
+      "userId": 44112217
     }
   ]
 }
